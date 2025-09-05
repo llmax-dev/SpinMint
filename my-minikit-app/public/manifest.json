@@ -1,0 +1,13 @@
+{
+  "name": "SpinMint",
+  "description": "Spin your profile, mint your NFT.",
+  "icon": "/icon.png",
+  "url": "https://spinmint.vercel.app",
+  "permissions": ["wallet_connect", "profile_read"],
+  "version": "1.0.0",
+  "author": "SpinMint Team",
+  "categories": ["nft", "social", "blockchain"],
+  "screenshots": ["/screenshot.png"],
+  "background_color": "#1e1b4b",
+  "theme_color": "#8b5cf6"
+}
