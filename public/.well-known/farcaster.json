@@ -1,0 +1,9 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "SpinMint MiniApp",
+    "homeUrl": "https://spinmint.vercel.app/",
+    "iconUrl": "https://via.placeholder.com/1024.png?text=icon",
+    "description": "Hello from my first Mini App!"
+  }
+}
