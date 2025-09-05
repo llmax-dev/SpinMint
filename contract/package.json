@@ -1,0 +1,21 @@
+{
+  "name": "spinmint-contract",
+  "version": "1.0.0",
+  "description": "SpinMint NFT smart contract",
+  "main": "index.js",
+  "scripts": {
+    "build": "hardhat compile",
+    "deploy:sepolia": "hardhat run scripts/deploy.ts --network baseSepolia",
+    "test": "hardhat test",
+    "clean": "hardhat clean"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
