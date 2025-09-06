@@ -3,7 +3,7 @@
     "version": "1",
     "name": "SpinMint MiniApp",
     "homeUrl": "https://spinmint.vercel.app/",
-    "iconUrl": "https://via.placeholder.com/1024.png?text=icon",
+    "iconUrl": "https://spinmint.vercel.app/icon.png",
     "description": "Hello from my first Mini App!"
 },
 "accountAssociation": {
