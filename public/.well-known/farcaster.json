@@ -1,9 +1,7 @@
 {
-  "miniapp": {
-    "version": "1",
-    "name": "SpinMint MiniApp",
-    "homeUrl": "https://spinmint.vercel.app/",
-    "iconUrl": "https://via.placeholder.com/1024.png?text=icon",
-    "description": "Hello from my first Mini App!"
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEzMjU0MDYsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhFODZCNmI0OTIxMzYyMTlGM2VCMDI3ZTEwMzc1RjNjRTQ4QTFkNWM0In0",
+    "payload": "eyJkb21haW4iOiJzcGlubWludC52ZXJjZWwuYXBwIn0",
+    "signature": "MHg1ODAyYjA5MzNiNzk5OGY1ODJjNjJjZDg2ZjU5Mjc1MmRlZTRhMjdhODg3NzUwOTk2NzQxNjRiMmFlYmI4YjVmNGZkYWI5ZDBmMThhMmMxNzVlYTIxMzdhZDNlYzliMmRlOWJlMjJmNjU0ZTM3NGUyNzc4ODgzZjQ3OTRlNDY4NDFi"
   }
 }
